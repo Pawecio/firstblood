@@ -1,0 +1,79 @@
+.tło{
+ background-color:#eceeef;
+}
+.jumbotron {
+  text-align: center;
+  background: none;
+}
+.karuzela{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+.druga{
+	margin-bottom:30px;
+	
+}
+
+.trzecia{
+	background:#CCC;
+	padding: 10px 6px 10px 6px;
+	
+}
+button.myModalGCS{
+	display:block;
+	margin:auto;
+	color: #ffffff;
+	background-color: red;
+}
+.myModal{
+	display:block;
+	margin:auto;
+	margin-top:20px;
+	margin-bottom:15px;
+	width:60%;
+}
+.czwarta{
+	padding:20px;
+}
+.imgCenter{
+	display:block;
+	margin:auto;
+}
+.stopkazdj {
+  padding: 15px;
+}
+.stopka{
+	background-color:black;
+}
+.glyphicon-user{
+	padding:15px;
+	font-size:25px;
+	color:red;
+	
+}
+.glyphicon-gift{
+	padding:15px;
+	font-size:25px;
+	color:blue;
+	
+}
+.glyphicon-envelope{
+	padding:15px;
+	font-size:25px;
+	color:green;
+	
+}
+.tytol{
+	margin:auto;
+}
+.foot_center{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.modalForm{
+	padding:10px;
+}
